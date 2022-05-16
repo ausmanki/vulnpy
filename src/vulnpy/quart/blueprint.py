@@ -1,4 +1,4 @@
-from quart import Blueprint, request
+from quart import Blueprint, request 
 
 from vulnpy.common import get_template
 from vulnpy.trigger import TRIGGER_MAP, get_trigger
