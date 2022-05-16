@@ -1,4 +1,4 @@
-from aiohttp import web
+from aiohttp import web 
 from vulnpy.common import get_template
 from vulnpy.trigger import TRIGGER_MAP, get_trigger
 
