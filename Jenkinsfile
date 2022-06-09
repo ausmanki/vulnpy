@@ -12,3 +12,4 @@ node {
     sh "${scannerHome}/bin/sonar-scanner  -Dsonar.sources=. -Dsonar.password=demo123 -Dsonar.login=admin -Dsonar.projectKey=demo"     
         }
     }
+}
