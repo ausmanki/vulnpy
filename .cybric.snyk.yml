@@ -4,4 +4,4 @@ log_level: INFO
 stage: source
 source:
   policy ID : DhIa_hksTiKn4Fls8rmzFA 
-  policy_name: Zap1
+  policy_name: Sample Policy 
