@@ -4,3 +4,4 @@ log_level: INFO
 stage: source
 source:
   policy_id: GEhVAxN6R7KCDIKYPiCiew
+  target_name: Sample Target
