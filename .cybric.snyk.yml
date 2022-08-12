@@ -3,4 +3,7 @@ output_format: json
 log_level: INFO
 stage: source
 source:
-  policy_id: AsAFvYElRFeq7J2iwIte5w 
+  policy_id: WShrdin-SrKAT5QyVP60KQ 
+  integration_name: test
+  target_name: Sample Target
+  policy_name: Sample Policy
