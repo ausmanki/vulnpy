@@ -4,4 +4,3 @@ log_level: INFO
 stage: source
 source:
   policy ID : TPLPJt1ATNedkgOHSYAFpQ
-  policy_name: jenkins zeronorth demo
