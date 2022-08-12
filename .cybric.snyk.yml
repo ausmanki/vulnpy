@@ -3,4 +3,4 @@ output_format: json
 log_level: INFO
 stage: source
 source:
-  policy_ID: GEhVAxN6R7KCDIKYPiCiew
+  policy_id: f56gXTsARx6r3sAQXBYqTg
