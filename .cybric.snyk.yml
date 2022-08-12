@@ -4,6 +4,3 @@ log_level: INFO
 stage: source
 source:
   policy_id: GEhVAxN6R7KCDIKYPiCiew
-  integration_name: Demo
-  target_name: ausmanki/vulnpy
-  policy_name: Sample Policy
