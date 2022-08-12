@@ -3,5 +3,5 @@ output_format: json
 log_level: INFO
 stage: source
 source:
-  policy ID : DhIa_hksTiKn4Fls8rmzFA 
-  policy_name: Sample Policy 
+  policy ID : LvelUoHZRh290qeJ6lp_MQ 
+  policy_name: jenkins zeronorth demo
